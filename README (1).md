@@ -41,8 +41,8 @@ Ensure you have the following installed:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/time-series-pipeline.git  
-cd time-series-pipeline  
+git clone https://github.com/yourusername/ForecastX.git  
+cd ForecastX  
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv  
